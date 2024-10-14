@@ -6,7 +6,7 @@ const config = {
   },
   users: {
     // You can add multiple users by doing username: 'password'.
-  Arkhavis: "m10142010m",
+  Arkhavis: "kS^6038",
   },
 };
 

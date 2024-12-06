@@ -6,6 +6,7 @@ const config = {
   Kayden: "m10142010m",
   Levi: "Evergreen85",
   River: "Something3655",
+  Naejon: "0913",
   Quentin: "Applesauce",
   },
 };

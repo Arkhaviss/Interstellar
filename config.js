@@ -5,9 +5,10 @@ const config = {
   Cylis: "Cylis164341",
   Kayden: "m10142010m",
   Levi: "Evergreen85",
-  River: "Something3655",
   Naejon: "0913",
   Quentin: "Applesauce",
+  River: "Something3655",
+  Sylis: "Therealguy",
   },
 };
 

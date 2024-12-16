@@ -6,14 +6,14 @@
     "custom": "true"
   },
   {
-    "name": "! Interstellar FAQ/Docs",
+    "name": "! Interstellar FAQ/Docs (Does not work)",
     "image": "/assets/media/icons/help_center_googlefonts.png",
     "link": "https://docs.gointerstellar.app",
     "categories": ["all"]
   },
   {
-    "name": "! [NEW] Request An App",
-    "link": "https://forms.gle/vwdHN3iPz5cLaHaMA",
+    "name": "! DISCORD SERVER",
+    "link": "https://discord.gg/kT2vhHP4Xk",
     "image": "/assets/media/icons/request.webp",
     "categories": ["all"]
   },

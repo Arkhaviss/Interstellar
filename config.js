@@ -3,6 +3,7 @@ const config = {
   users: {
     // You can add multiple users by doing username: 'password'.
     Cylis: "Cylis164341",
+    Dean: "AddictedToLegos",
     Kayden: "m10142010m",
     Levi: "Evergreen85",
     Mason: "Hasard26!",

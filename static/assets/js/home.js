@@ -172,14 +172,12 @@ document.addEventListener("DOMContentLoaded", event => {
 });
 // Splash texts
 const SplashT = [
-  "Made by Dark_Turns -Kayden S.",
-  "Made by Arkhavis -Kayden S",
-  "Check out my music! https://www.youtube.com/@ArkavisMusic",
-  "Check out the settings page, there might be some useful stuff in there :>",
-  "Want the tab to look less suspicious? Go over to the settings page and check out all the tab cloaking options!",
-  "Try clicking here, It will change the quotes :>",
-  "Official Discord server: discord.gg/kT2vhHP4Xk",
-  "Want to sign up a friend to get a login for Interstellar? Join the official discord server: discord.gg/kT2vhHP4Xk",
+  "Welcome to Interstellar! We're a community-driven, open-source project offering a range of features to enhance your browsing experience.",
+  "The settings page contains various customization options for your convenience. Take control of your browsing experience and tailor it to your needs.",
+  "If you want to make the tab appear less suspicious, check out the tab cloaking options on the settings page.",
+  "Click here to cycle through the splash texts. We have curated a selection of interesting facts and helpful tips to keep you informed and entertained.",
+  "Join the official Discord server for support and updates. Our community is always happy to help with any questions or issues you may have. Plus, you can stay up-to-date on the latest developments and features. --> discord.gg/kT2vhHP4Xk <--",
+  "We are proud to offer a secure and reliable service. If you have any issues or concerns, please don't hesitate to reach out to us. We are committed to providing the best possible experience for our users.",
 ];
 
 let SplashI = Math.floor(Math.random() * SplashT.length);
